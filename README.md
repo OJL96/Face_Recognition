@@ -4,4 +4,4 @@
 
 > [Report](https://github.com/OJL96/Face_Recognition/files/7213505/Face.Recognition.Report.pdf)
 
-> [Script](https://rb.gy/k2jows)
+> [Script and Models](https://rb.gy/k2jows)
